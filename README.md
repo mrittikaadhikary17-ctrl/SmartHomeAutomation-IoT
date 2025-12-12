@@ -10,7 +10,7 @@ Click the link below to view the complete interactive circuit simulation:
 
 
 ## 🖼 Circuit Diagram
-![Circuit Diagram](circuit.png.jpeg)
+![Circuit Diagram]("C:\Users\HP\Desktop\IOT Project\SmartHomeAutomation\circuit.png.jpeg")
 
 
 
