@@ -10,8 +10,7 @@ Click the link below to view the complete interactive circuit simulation:
 
 
 ## 🖼 Circuit Diagram
-![Circuit Diagram](![circuit png](https://github.com/user-attachments/assets/5f7c0ec8-106d-43f0-a590-21d2f4757c5b)
-)
+![Circuit Diagram](circuit.png.jpeg)
 
 
 
